@@ -71,6 +71,7 @@ msixmgr.exe -Unpack -packagePath "C:\Users\ssa\Desktop\packageName_3.51.1.0_x64_
 
 ## Next steps
 
+Learn more about [MSIXMGR tool paramaters](msixmgr-tool-syntax-description.md)
 Learn more about MSIX app attach at [What is MSIX app attach?](what-is-app-attach.md)
 
 To learn how to set up app attach, check out these articles:
